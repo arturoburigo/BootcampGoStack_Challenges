@@ -6,6 +6,8 @@
 
 🇺🇸 This is an application to store repositories in your portfolio, which will allow the creation, listing, update and removal of the repositories, and also allow the repositories to receive "likes".
 
+The application was created based on 𝗖𝗥𝗨𝗗 (Create, Read, Uptade, Delete)
+
 🇧🇷 Essa é uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 A aplicação foi criada com base no 𝗖𝗥𝗨𝗗 (Create,Read,Uptade,Delete)
