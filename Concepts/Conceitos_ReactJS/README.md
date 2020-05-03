@@ -6,11 +6,8 @@
 
 🇺🇸 This is an application to store repositories in your portfolio, which will allow the creation, listing, update and removal of the repositories, and also allow the repositories to receive "likes".
 
-The application was created based on 𝗖𝗥𝗨𝗗 (Create, Read, Uptade, Delete)
 
 🇧🇷 Essa aplicação feita em ReactJS, possibilita adicionar e remover repositorios
-
-A aplicação foi criada com base no 𝗖𝗥𝗨𝗗 (Create,Read,Uptade,Delete)
 
 # 📚 Development
 ## The project was made using these functions of ReactJS to help with development 
